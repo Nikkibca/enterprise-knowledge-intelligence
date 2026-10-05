@@ -1,0 +1,9 @@
+Employee Expense Reimbursement Policy
+
+Employees may request reimbursement for approved business expenses.
+
+The standard employee reimbursement limit is $1,000 per expense.
+
+Expenses above $1,000 require approval from the department head before reimbursement.
+
+Employees must submit receipts and reimbursement requests within 30 days of the expense.
